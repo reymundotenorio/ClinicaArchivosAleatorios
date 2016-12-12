@@ -1,0 +1,17 @@
+
+Nombres Del Paciente: Donaldo
+Expediente: 0001010800000X
+Fecha: 17-12-2016
+Doctor: Harley Queen
+Diagnostico: Aburrimitis estrimix
+Recetas: Dosis de relajación y diversión
+Recomendaciones: Bacanalear a lo loco
+..........................................................................................
+Nombres Del Paciente: Donaldo
+Expediente: 0001010800000X
+Fecha: 17-12-2016
+Doctor: Harley Queen
+Diagnostico: Aburrimitis estrimix
+Recetas: Dosis de relajación y diversión
+Recomendaciones: Bacanalear a lo loco
+..........................................................................................

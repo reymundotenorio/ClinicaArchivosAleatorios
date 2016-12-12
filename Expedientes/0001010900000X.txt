@@ -1,0 +1,17 @@
+
+Nombres Del Paciente: Reymundo
+Expediente: 0001010900000X
+Fecha: 02-12-2016
+Doctor: Juan Perez
+Diagnostico: Sano y salvo
+Recetas: Cervezas y Carne asada
+Recomendaciones: Descansar por una semana
+..........................................................................................
+Nombres Del Paciente: Reymundo
+Expediente: 0001010900000X
+Fecha: 02-12-2016
+Doctor: Juan Perez
+Diagnostico: Sano y salvo
+Recetas: Cervezas y Carne asada
+Recomendaciones: Descansar por una semana
+..........................................................................................
